@@ -1,0 +1,6 @@
+{
+  "name": "RNE News",
+  "description": "Real-time hyper-local news app for Raj Nagar Extension, covering traffic, community events, infrastructure updates, personalized feeds, alerts, and user-submitted tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
